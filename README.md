@@ -2,4 +2,4 @@
 
 Análise de churn utilizando dados de rede de usuários de serviço de telecom. 
 
-Código oriundo do curso Predictive Analytics using Networked Data in R, da DataCamp.
+Dados oriundos do curso Predictive Analytics using Networked Data in R, da DataCamp.
