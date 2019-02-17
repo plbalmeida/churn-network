@@ -1,1 +1,0 @@
-Trabalho referente a matéria Métodos Matemáticos e Computacionais II (SCX5001) do Programa de Mestrado de Modelagem de Sistemas Complexos da Escola de Comunicação, Artes e Humanidades da Universidade de São Paulo. 
