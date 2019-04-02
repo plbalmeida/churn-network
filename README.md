@@ -1,5 +1,3 @@
-# Analise_de_churn_em_rede_de_usuarios_de_telecom
+# Analise de churn em rede de usuários de serviço de telefonia celular em R
 
-Análise de churn utilizando dados de rede de usuários de serviço de telecom. 
-
-Dados oriundos do curso Predictive Analytics using Networked Data in R, da DataCamp.
+Baseado no curso Predictive Analytics using Networked Data in R da DataCamp
